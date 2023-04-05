@@ -1,11 +1,14 @@
-### cvalgorithms
 computer vision algorithms for image processing
 
-#### MainAchitectures
+#### Main Achitectures
 
-#### LiteBackbone
+#### Lite Backbones
+
+#### Transformers
 
 #### Object Detection
+
+#### Attention
 
 #### Feature Pyramid Networks
 
@@ -13,12 +16,10 @@ computer vision algorithms for image processing
 
 #### Convolutions Variants
 
-#### Semi & and Self learning
+#### Semi & and Self Supervised Learning
 
 #### Segmentation
 
 #### Datasets
 
-#### Transformers
 
-#### Attention
